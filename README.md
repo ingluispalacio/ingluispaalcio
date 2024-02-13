@@ -8,11 +8,11 @@ I'm a sotfware developer 👨🏻‍💻 highly competent and passionate about c
 + PostgreSQL
 + SQL Server
 + APIs NET y NET Core
-+ Almacenamiento en Azure
 + Chatbot botmaker
 + Node 
 
 ### Languages
 + Javascript
 + PHP
-+ Java "# ingluispalacio" 
++ Java 
++ C#
